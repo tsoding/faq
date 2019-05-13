@@ -26,7 +26,7 @@ In many Slavic languages letter "c" is pronounced like "ts".
 The USB one.
 
 # Q: What computer do you use?
-Commodore 64
+The von Neumann one.
 
 # Q: Where are you from?
 I'm from the Internet you silly! :) Just like you!

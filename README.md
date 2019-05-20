@@ -11,7 +11,7 @@ Usually Emacs. My [dotfiles](http://github.com/rexim/dotfiles).
 [i3wm](https://i3wm.org/)
 
 # Q: What program do you draw in?
-[MyPaint](http://mypaint.org/)
+[Krita](https://krita.org/en/)
 
 # Q: Education?
 Bachelor of CS

@@ -45,3 +45,8 @@ I hate them all equally
 
 # Q: How many languages do you know?
 I don't need to know any. I just copy-paste code from StackOverflow.
+
+---
+
+- If your question is not addressed here feel free to submit an [Issue](https://github.com/tsoding/faq/issues).
+- If you want to stay updated on any FAQ changes just [Start Watching](https://help.github.com/en/articles/watching-and-unwatching-repositories#watching-a-single-repository) this repo.

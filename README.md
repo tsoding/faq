@@ -11,6 +11,9 @@ Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://githu
 # Q: Window Manager?
 [i3wm](https://i3wm.org/)
 
+# Q: What terminal emulator do you use?
+[urxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
+
 # Q: What program do you draw in?
 [Krita](https://krita.org/en/)
 

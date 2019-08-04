@@ -3,7 +3,7 @@
 [NixOS](https://nixos.org/).
 
 # Q: Text Editor/IDE?
-Usually Emacs. My [dotfiles](http://github.com/rexim/dotfiles).
+Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://github.com/rexim/dotfiles).
 
 # Q: Font?
 [Ubuntu Mono](https://design.ubuntu.com/font/)

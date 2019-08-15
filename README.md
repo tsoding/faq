@@ -17,6 +17,9 @@ Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://githu
 # Q: What program do you draw in?
 [Krita](https://krita.org/en/)
 
+# Q: What is your git client?
+[magit](https://magit.vc/)
+
 # Q: Education?
 Bachelor of CS
 

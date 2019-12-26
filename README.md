@@ -1,6 +1,6 @@
 [![Tsoding](https://img.shields.io/badge/twitch.tv-tsoding-purple?logo=twitch&style=for-the-badge)](https://www.twitch.tv/tsoding)
 # Q: Operating System?
-[NixOS](https://nixos.org/).
+[NixOS](https://nixos.org/) or [Debian](https://www.debian.org/).
 
 # Q: Text Editor/IDE?
 Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://github.com/rexim/dotfiles).

@@ -35,6 +35,9 @@ The USB one.
 # Q: What computer do you use?
 The von Neumann one.
 
+# Q: What's the mic you're using?
+Behringer C-1U
+
 # Q: Where are you from?
 I'm from the Internet you silly! :) Just like you!
 

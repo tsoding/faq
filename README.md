@@ -41,6 +41,9 @@ I'm from the Internet you silly! :) Just like you!
 # Q: How old are you?
 I was born a year before the Soviet Union dissolution.
 
+# Q: What tea are you drinking?
+Probably Earl Grey
+
 # Q: How long have you been programming?
 According to my best knowledge, since 2006.
 

@@ -59,6 +59,9 @@ Programming prostitution.
 # Q: What is your favorite programming language?
 I hate them all equally
 
+# Q: What was your first programming language?
+[JASS](https://en.wikipedia.org/wiki/JASS)
+
 # Q: How many languages do you know?
 I don't need to know any. I just copy-paste code from StackOverflow.
 

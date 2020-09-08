@@ -63,7 +63,7 @@ Programming prostitution.
 I hate them all equally
 
 # Q: What was your first programming language?
-[JASS](https://en.wikipedia.org/wiki/JASS)
+[JASS](https://en.wikipedia.org/wiki/Warcraft_III_World_Editor)
 
 # Q: How many languages do you know?
 I don't need to know any. I just copy-paste code from StackOverflow.

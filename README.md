@@ -8,6 +8,9 @@ Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://githu
 # Q: Font?
 [Ubuntu Mono](https://design.ubuntu.com/font/)
 
+# Q: What's up with your editor's line numbers?
+Those are relative line numbers, showing distance from the cursor position. I use them so I can quickly see how many lines I need to jump up or down to get to a particular line.
+
 # Q: Window Manager?
 [i3wm](https://i3wm.org/)
 

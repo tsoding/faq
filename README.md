@@ -20,6 +20,9 @@ Those are relative line numbers, showing distance from the cursor position. I us
 # Q: What program do you draw in?
 [Krita](https://krita.org/en/)
 
+# Q: What is your tablet?
+Old version of [Wacom Intuos Pen](https://www.amazon.com/Wacom-Intuos-Touch-Tablet-Version/dp/B00EN27U9U). They don't sell them anymore. But there are newer versions available. They just look different.
+
 # Q: What is your git client?
 [magit](https://magit.vc/)
 

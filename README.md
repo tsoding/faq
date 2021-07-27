@@ -69,7 +69,7 @@ My repos usually have a CI configured to keep the master branch always buildable
 I don't. I just force myself to do things I don't wanna do until they become a habbit and after that I don't need motivation to do them.
 
 # Q: What do you do for a living?
-Programming prostitution.
+I used to do a lot of programming prostitution, but now I'm a clown on the Internet.
 
 # Q: What is your favorite programming language?
 I hate them all equally

@@ -6,7 +6,7 @@
 Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://github.com/rexim/dotfiles).
 
 # Q: Font?
-[Ubuntu Mono](https://design.ubuntu.com/font/)
+[Iosevka](https://github.com/be5invis/Iosevka)
 
 # Q: Headphones?
 [ATH-M50x](https://www.audio-technica.com/en-us/ath-m50x)

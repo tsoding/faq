@@ -3,7 +3,7 @@
 [Debian](https://www.debian.org/).
 
 # Q: Text Editor/IDE?
-Usually [Emacs](https://www.gnu.org/software/emacs/). My [dotfiles](http://github.com/rexim/dotfiles).
+Usually [Emacs](https://www.gnu.org/software/emacs/). Sometimes [Vim](https://www.vim.org/). My [dotfiles](http://github.com/rexim/dotfiles).
 
 # Q: Font?
 [Iosevka](https://github.com/be5invis/Iosevka)

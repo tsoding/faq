@@ -33,7 +33,7 @@ Old version of [Wacom Intuos Pen](https://www.amazon.com/Wacom-Intuos-Touch-Tabl
 Bachelor of CS
 
 # Q: What does "Tsoding" mean?
-In many Slavic languages letter "c" is pronounced like "ts".
+Turing Soding (or T-soding for short) is the act of recognizing, studying and exploiting Turing Complete computational systems.
 
 # Q: Ты говоришь по-русски?
 Нет.

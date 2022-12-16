@@ -39,7 +39,7 @@ Turing Soding (or T-soding for short) is the act of recognizing, studying and ex
 Нет.
 
 # Q: What's the keyboard you're using?
-The USB one.
+The QWERTY one.
 
 # Q: What computer do you use?
 The von Neumann one.

@@ -21,7 +21,7 @@ Those are relative line numbers, showing distance from the cursor position. I us
 [urxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
 
 # Q: What program do you draw in?
-[MyPaint](http://mypaint.org/)
+[MyPaint](https://mypaint.app/downloads/)
 
 # Q: What is your tablet?
 Old version of [Wacom Intuos Pen](https://www.amazon.com/Wacom-Intuos-Touch-Tablet-Version/dp/B00EN27U9U). They don't sell them anymore. But there are newer versions available. They just look different.

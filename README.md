@@ -62,7 +62,7 @@ Yes
 # Q: How long have you been programming?
 According to my best knowledge, since 2006.
 
-# Q: Why do you make Pull Requests to your own repos
+# Q: Why do you make Pull Requests to your own repos?
 My repos usually have a CI configured to keep the master branch always buildable and I want to make sure that my changes don't break anything by going through the same process as any contributor would.
 
 # Q: How do you stay motivated?

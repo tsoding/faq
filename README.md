@@ -66,7 +66,7 @@ According to my best knowledge, since 2006.
 My repos usually have a CI configured to keep the master branch always buildable and I want to make sure that my changes don't break anything by going through the same process as any contributor would.
 
 # Q: How do you stay motivated?
-I don't. I just force myself to do things I don't wanna do until they become a habbit and after that I don't need motivation to do them.
+I don't. I just force myself to do things I don't wanna do until they become a habit and after that I don't need motivation to do them.
 
 # Q: What do you do for a living?
 I used to do a lot of programming prostitution, but now I'm a clown on the Internet.

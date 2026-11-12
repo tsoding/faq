@@ -51,7 +51,7 @@ Behringer C-1U
 I'm from the Internet you silly! :) Just like you!
 
 # Q: How old are you?
-I was born a year before the Soviet Union dissolution.
+Roughly as old as Sonic. B)
 
 # Q: What tea are you drinking?
 Probably Earl Grey
